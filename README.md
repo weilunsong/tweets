@@ -1,2 +1,2 @@
 # tweets
-analysis on tweets
+analysis on tweets and news
